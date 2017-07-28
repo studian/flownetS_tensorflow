@@ -8,6 +8,14 @@
   url          = "http://lmb.informatik.uni-freiburg.de//Publications/2015/DFIB15"
 }
 
+# Available models:
+* `flownet2` : net yet
+* `flownet_s` : **Available**
+* `flownet_c` : net yet
+* `flownet_cs` : net yet
+* `flownet_css`  : net yet
+* `flownet_sd` : net yet
+
 # Train
 $ cd project_root_path
 $ ./train_flownetS.sh
